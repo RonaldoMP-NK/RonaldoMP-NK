@@ -4,7 +4,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Student at the Tecsup Institute.
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
