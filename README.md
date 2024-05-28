@@ -12,9 +12,9 @@
 
 <br><br>
 
-✔ I'm a Student at the [Tecsup](https://www.tecsup.edu.pe/) Institute.<br>
+✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">[Tecsup]</a> Institute.<br>
 ✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development.<br>
-✔ :technologist: I love using Software as a solution for every `Problem`.
+✔ :technologist: I love using Software as a solution for every `Problem`. <br>
 ✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 
 <br>
